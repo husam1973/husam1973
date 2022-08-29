@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Husam
+- 👋 Hi, I’m Husam Abu-Oshaibah
 - 👀 I’m An Oracle and MSSQL DBA
-- 🌱 I’m currently learning to Cloud Architect and Big data Analysis
+- 🌱 I’m currently learning Cloud Architect and Big data Analysis
 - 💞️ I’m looking to collaborate on Database and Cloud issues
 - 📫 Oshaibah73@gmail.com
 
